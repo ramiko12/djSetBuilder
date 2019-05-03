@@ -1,0 +1,17 @@
+{
+  "name": "djsetbuilder",
+  "version": "1.0.0",
+  "description": "builds a dj set from a folder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "audio-metadata": "^0.3.0",
+    "music-tempo": "^1.0.3",
+    "web-audio-api": "^0.2.2"
+  }
+}

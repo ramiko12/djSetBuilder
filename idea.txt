@@ -1,0 +1,8 @@
+Analyse tracks in folder,
+
+read the tags
+
+pick 2 tracks with the same key and add to list 
+    move to next key
+    repeat till end 
+    sort by tempo
